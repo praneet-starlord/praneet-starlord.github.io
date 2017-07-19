@@ -16,6 +16,10 @@ html {
     line-height: 1.4;
 }
 
+p{
+color:white;
+}
+
 h1.header{
     color: lightseagreen;
     font-family: Impact;
